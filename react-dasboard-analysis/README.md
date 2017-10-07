@@ -1,2 +1,6 @@
 # react-dashboard
-Demo for building a dashboard in React
+Dashboard version one
+
+To run 
+Click index.html
+
